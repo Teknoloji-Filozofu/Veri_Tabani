@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #
 
----
 
 revoke verilen izinlerin geri alınmasında kullanılır.
 
@@ -15,8 +12,3 @@ GRANT ALL ON 'tablo ismi' TO oktay;
 
 -- yada belrili bir işlemi herekese kapalı yapabiliriz
 GRANT SELECT ON 'tablo ismi' TO PUBLİC;
-
-
----
-link: [[Database]]
-tags: #

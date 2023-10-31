@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #DELETE #TRUNCATE 
 
----
 ``` sql
 
 -- delete veri silmek için kullanılırken 
@@ -34,7 +31,3 @@ WHERE ID > 5;
 -- TRUNCATE ilişkilere bakmadan direkt siler 
 TRUNCATE TABLE users;		  
 ```
-
----
-link: [[Database]]
-tags: #DELETE #TRUNCATE

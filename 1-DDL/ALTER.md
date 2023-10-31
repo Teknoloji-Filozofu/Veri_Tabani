@@ -1,7 +1,3 @@
-link: [[Database]]
-tags: #DATABASE/ALTER 
-
----
 ALTER TABLE tablo_ismi [aksiyon]
 
 - Columns --> Add,Delete(Drop),Modify, Rename
@@ -39,7 +35,3 @@ ALTER TABLE tablo_ismi ADD PRIMARY KEY sütun_ismi;
 ALTER TABLE tablo_ismi ADD CONSTRAINT sütun_ismi CHECK (sütun_ismi>=100);
 ``` 
 
-
----
-link: [[Database]]
-tags: #DATABASE/ALTER  

@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #
 
----
 ``` sql
 
 SELECT tablo_1.sutun_1, tablo_2.sutun2
@@ -23,6 +20,3 @@ ORDER BY customer_id;
 	
 ``` 
 
----
-link: [[Database]]
-tags: #

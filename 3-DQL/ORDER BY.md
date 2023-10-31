@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #DATABASE/ORDERBY/ORDER #DATABASE/ORDERBY/ASC #DATABASE/ORDERBY/DESC 
 
----
 ``` sql
 
 -- birşey yazılmadığı durumda ASC olarak alır
@@ -26,10 +23,3 @@ SELECT DISTINCT sütun_ismi
 FROM tablo_ismi
 ORDER BY sütun_ismi ASC;
 ```
-
-
-
-
----
-link: [[Database]]
-tags: #DATABASE/ORDERBY/ORDERBY #DATABASE/ORDERBY/ASC #DATABASE/ORDERBY/DESC

@@ -1,9 +1,3 @@
-link: [[Database]]
-tags:
-
----
-
-
 ``` sql
 -- Database oluşturuyoruz
 

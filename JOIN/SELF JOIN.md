@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #
 
----
 
 ``` sql
 
@@ -23,6 +20,3 @@ ON a.customer_id = b.customer_id
 ORDER BY customer_id;
 	
 ``` 
----
-link: [[Database]]
-tags: #

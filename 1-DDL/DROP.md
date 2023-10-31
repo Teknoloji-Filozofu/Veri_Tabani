@@ -1,7 +1,3 @@
-link: [[Database]]
-tags: #
-
----
 
 ``` sql
 -- tablo siliyoruz 

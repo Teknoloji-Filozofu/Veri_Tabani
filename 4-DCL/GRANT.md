@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #
 
----
 
 ``` sql
 CREATE USER kullanici_adi
@@ -33,7 +30,3 @@ GRANT SELECT ON 'tablo ismi' TO PUBLİC;
 
 
 ``` 
-
----
-link: [[Database]]
-tags: #

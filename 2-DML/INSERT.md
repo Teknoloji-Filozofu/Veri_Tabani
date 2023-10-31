@@ -1,7 +1,3 @@
-link: [[Database]]
-tags: #
-
----
 
 ``` sql
 CREATE TABLE users(
@@ -22,6 +18,3 @@ VALUES(10, 'SADIK'),
 			  
 ```
 
----
-link: [[Database]]
-tags: #

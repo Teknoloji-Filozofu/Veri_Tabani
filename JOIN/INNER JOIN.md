@@ -1,7 +1,4 @@
-link: [[Database]]
-tags: #
 
----
 
 ``` sql
 
@@ -35,6 +32,4 @@ SQL-Join, iki ya da daha fazla tablonun birbirleriyle belli şartlar altında bi
 
 **Full Join:** Full join yapısı, isminden de anlaşılacağı üzere tüm verileri getiren bir yapıdır.
 
----
-link: [[Database]]
-tags: #
+

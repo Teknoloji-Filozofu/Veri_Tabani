@@ -1,7 +1,3 @@
-link: [[Database]]
-tags: #DATABASE/GROUPBY #DATABASE/GROUPBY/HAVING 
-
----
 
 ``` sql
 
@@ -39,7 +35,3 @@ GROUP BY customer_id
 HAVING SUM(amount) > 200;
 
 ```
-
----
-link: [[Database]]
-tags: #DATABASE/GROUPBY #DATABASE/GROUPBY/HAVING

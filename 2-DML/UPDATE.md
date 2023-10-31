@@ -1,5 +1,3 @@
-link: [[Database]]
-tags: #
 
 ---
 ``` sql
@@ -29,6 +27,3 @@ SET NAME = 'x'
 ```
 #UPDATE
 
----
-link: [[Database]]
-tags: #
