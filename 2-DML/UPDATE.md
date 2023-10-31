@@ -25,5 +25,4 @@ UPDATE users
 SET NAME = 'x'
 			  
 ```
-#UPDATE
 

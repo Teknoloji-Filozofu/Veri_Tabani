@@ -71,23 +71,30 @@ Veritabanında PL/SQL, SQL, TCL ve Transact – SQL dilleri yer alır. Bu di
 # SQL Sorguları 
 
 ## 1- DDL - Data Definition Language ( Veri Tanımlama Dili )
-![CREATE](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/CREATE.md) --> Veritabanında nesne oluşturmak için kullanılır.
-![ALTER](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/ALTER.md) --> Mevcut bir nesenenin yapısını değiştirmek için kullanılır.
-![DROP](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/DROP.md) --> Bir nesneyi silmek için kullanılır.
+[CREATE](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/CREATE.md) --> Veritabanında nesne oluşturmak için kullanılır.
+
+[ALTER](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/ALTER.md) --> Mevcut bir nesenenin yapısını değiştirmek için kullanılır.
+
+[DROP](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/1-DDL/DROP.md) --> Bir nesneyi silmek için kullanılır.
 	
 ## 2- DML - Data Manipulation Language ( Veri İşleme Dili )
-[[INSERT]] --> Veri ekleme amacıyla kullanılır
-[[UPDATE]] --> Veri güncelleme amacıyla kullanılır
-[[DELETE]] --> Veri silme amacıyla kullanılır
+[INSERT](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/2-DML/INSERT.md) --> Veri ekleme amacıyla kullanılır
+
+[UPDATE](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/2-DML/UPDATE.md) --> Veri güncelleme amacıyla kullanılır
+
+[DELETE](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/2-DML/DELETE.md) --> Veri silme amacıyla kullanılır
 
 ## 3- DQL - Data Query Language ( Veri Sorgu Dili )
-[[SELECT]]
-[[ORDER BY]]
-[[GROUP BY]]
+[SELECT](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/3-DQL/SELECT.md)
+
+[ORDER BY](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/3-DQL/ORDER%20BY.md)
+
+[GROUP BY](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/3-DQL/GROUP%20BY.md)
 	
 ## 4- DCL - Data Control Language ( Veri Kontrol Dili ) kullanıcı erişim işlemleri 
-[[GRANT]]
-[[REVOKE]]
+[GRANT](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/4-DCL/GRANT.md)
+
+[REVOKE](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/4-DCL/REVOKE.md)
 	
 ## 5- TCC - Transactional Control Commands ( İşlemsel Kontrol Komutları )
 [[COMMIT]]
@@ -95,9 +102,9 @@ Veritabanında PL/SQL, SQL, TCL ve Transact – SQL dilleri yer alır. Bu di
 
 ## JOIN 
 
-* [[SELF JOIN]]
-* [[RIGHT JOIN]]
-* [[INNER JOIN]]
-* [[FULL OUTHER JOIN]]
-* [[CROSS JOIN]]
-* [[LEFT JOIN]]
+* [SELF JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/SELF%20JOIN.md)
+* [RIGHT JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/RIGHT%20JOIN.md)
+* [INNER JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/INNER%20JOIN.md)
+* [FULL OUTHER JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/FULL%20OUTHER%20JOIN.md)
+* [CROSS JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/CROSS%20JOIN.md)
+* [LEFT JOIN](https://github.com/Teknoloji-Filozofu/Veri_Tabani/blob/main/JOIN/LEFT%20JOIN.md)

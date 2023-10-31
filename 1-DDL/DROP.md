@@ -6,7 +6,3 @@ DROP TABLE  users;
 --tablo varsa siliyoruz 
 DROP TABLE IF EXISTS users;
 ``` 
-
----
-link: [[Database]]
-tags: #
